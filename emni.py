@@ -1,5 +1,9 @@
-temperatures = [28.5, 30.2, 29.8, 31.1, 27.9]
+student = {
+    "name": "Dhwoni",
+    "age": 16,
+    "country": "India"
+}
 
-average = sum(temperatures) / len(temperatures)
+print(student)
+print(type(student))
 
-print("Average:", average)
