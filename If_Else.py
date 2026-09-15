@@ -332,7 +332,7 @@ print(result)
 #                       MINI CHALLENGE
 # ============================================================
 
-# Create a program that:
+# Create a program that:``
 #
 # 1. Stores a student's marks.
 # 2. If marks >= 90 → "A+"
